@@ -25,6 +25,7 @@ compiled 2013-10-03 on aeryn.xorinia.dim (Darwin)
 ## Optional
 
 * [make](http://www.gnu.org/software/make/)
+* [Node.js](https://nodejs.org/en/) (for dockerlint)
 
 ## Debian/Ubuntu
 
